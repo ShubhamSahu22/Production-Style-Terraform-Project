@@ -1,9 +1,6 @@
 # Production-Style-Terraform-Project
 Production-Style Terraform Project
 Architecture Overview
-scss
-Copy
-Edit
 VPC (10.0.0.0/16)
 │
 ├── Public Subnet (Bastion Host + Internet Gateway)
