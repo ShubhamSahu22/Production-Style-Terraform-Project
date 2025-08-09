@@ -6,6 +6,7 @@ VPC (10.0.0.0/16)
 ├── Public Subnet (Bastion Host + Internet Gateway)
 │
 └── Private Subnet (EC2 App Server + RDS Database)
+
 Bastion Host → Used for SSH access into private subnet
 
 RDS Database → Accessible only inside VPC
